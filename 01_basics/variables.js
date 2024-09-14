@@ -19,5 +19,24 @@
 // then we use bigInt
 
 // null is standalone value
-console.log(typeof null)
+// console.log(typeof null)  //object
+
+
+// let score = "aw32"
+// let in_Number = Number(score)
+// console.log(in_Number)
+// // output NaN
+// console.log(typeof in_Number); //output Number
+
+// let score = null
+// let in_Number = Number(score)
+// console.log(in_Number); // output 0
+
+
+
+
+
+
+
+
 
