@@ -31,6 +31,27 @@
 // let score = null
 // let in_Number = Number(score)
 // console.log(in_Number); // output 0
+// true => 1 and false => 0
+// undefined => NaN
+
+
+// =========== Operations =============
+
+// let value = 45
+// let negValue = -value
+// console.log(negValue) //-45
+
+
+// console.log("1" + 2 + 2)    // 122
+// console.log(1 + 2 + "2")   //32
+
+
+
+// Primitive Data Types are callback values, they are copied and changes made in copy
+// string, Number, Boolean, Null, Undefined, Symbol, BigInt
+
+// Reference (Non primitive)
+
 
 
 
