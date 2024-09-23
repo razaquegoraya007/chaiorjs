@@ -6,7 +6,7 @@
 		"type": "shell",
 		"command": "node",
 		"args": [
-		  "01_basics/variables.js"
+		  "01_basics/index.js"
 		],
 		"group": {
 		  "kind": "build",

@@ -51,6 +51,12 @@
 // string, Number, Boolean, Null, Undefined, Symbol, BigInt
 
 // Reference (Non primitive)
+// Array, Objects, Functions
+
+
+
+// const id = Symbol("59332")
+
 
 
 
